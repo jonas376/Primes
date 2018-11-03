@@ -1,0 +1,2014 @@
+THIS IS A CONTEST OF TIME BETWEEN MY ALGORITHM myFactor(x) AND THE COMPETITION prime_number(n).
+Finding factors of  2000000000000045 :  myFactor says:  792065 , 2525045293 prime_factors says:  [5, 157, 1009, 2525045293.0]
+Prime?  False myFactor time:  0:00:47.427001 prime_factor time:  0:00:00.015666 Winner =  THEM
+Time Difference =  0:00:47.411335
+Finding factors of  2000000000000047 :  myFactor says:  459301 , 4354442947 prime_factors says:  [459301, 4354442947.0]
+Prime?  False myFactor time:  0:00:49.744133 prime_factor time:  0:00:00.218235 Winner =  THEM
+Time Difference =  0:00:49.525898
+Finding factors of  2000000000000049 :  myFactor says:  10759029 , 185890381 prime_factors says:  [3, 29, 123667, 185890381.0]
+Prime?  False myFactor time:  0:00:29.720734 prime_factor time:  0:00:00.062497 Winner =  THEM
+Time Difference =  0:00:29.658237
+Finding factors of  2000000000000051 :  myFactor says:  1615103 , 1238311117 prime_factors says:  [7, 230729, 1238311117.0]
+Prime?  False myFactor time:  0:00:45.911240 prime_factor time:  0:00:00.109388 Winner =  THEM
+Time Difference =  0:00:45.801852
+Finding factors of  2000000000000053 :  myFactor says:  547 , 3656307129799 prime_factors says:  [547, 3656307129799.0]
+Prime?  False myFactor time:  0:00:48.546165 prime_factor time:  0:00:00.937601 Winner =  THEM
+Time Difference =  0:00:47.608564
+Finding factors of  2000000000000055 :  myFactor says:  7616445 , 262589699 prime_factors says:  [3, 5, 397, 1279, 262589699.0]
+Prime?  False myFactor time:  0:00:35.294547 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:35.294547
+Finding factors of  2000000000000057 :  myFactor says:  11143 , 179484878399 prime_factors says:  [11, 1013, 179484878399.0]
+Prime?  False myFactor time:  0:00:48.224947 prime_factor time:  0:00:00.203157 Winner =  THEM
+Time Difference =  0:00:48.021790
+Finding factors of  2000000000000059 :  myFactor says:  23 , 86956521739133 prime_factors says:  [23, 86956521739133.0]
+Prime?  False myFactor time:  0:00:48.113091 prime_factor time:  0:00:04.844317 Winner =  THEM
+Time Difference =  0:00:43.268774
+Finding factors of  2000000000000061 :  myFactor says:  7191 , 278125434571 prime_factors says:  [3, 3, 17, 47, 278125434571.0]
+Prime?  False myFactor time:  0:00:49.163630 prime_factor time:  0:00:00.265654 Winner =  THEM
+Time Difference =  0:00:48.897976
+Finding factors of  2000000000000063 :  myFactor says:  867871 , 2304489953 prime_factors says:  [867871, 2304489953.0]
+Prime?  False myFactor time:  0:00:48.277079 prime_factor time:  0:00:00.359386 Winner =  THEM
+Time Difference =  0:00:47.917693
+Finding factors of  2000000000000065 :  myFactor says:  11339615 , 176372831 prime_factors says:  [5, 7, 53, 6113, 176372831.0]
+Prime?  False myFactor time:  0:00:28.659338 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:28.659338
+Finding factors of  2000000000000067 :  myFactor says:  32936019 , 60723793 prime_factors says:  [3, 13, 593, 7877, 10978673.0]
+Prime?  False myFactor time:  0:00:03.594139 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:03.594139
+Finding factors of  2000000000000001 :  myFactor says:  37884167 , 52792503 prime_factors says:  [3, 127, 138563, 37884167.0]
+Prime?  False myFactor time:  0:00:01.859581 prime_factor time:  0:00:00.062507 Winner =  THEM
+Time Difference =  0:00:01.797074
+Finding factors of  2000000000000003 :  myFactor says:  19 , 105263157894737 prime_factors says:  [19, 105263157894737.0]
+Prime?  False myFactor time:  0:00:46.739429 prime_factor time:  0:00:05.016171 Winner =  THEM
+Time Difference =  0:00:41.723258
+Finding factors of  2000000000000005 :  myFactor says:  36665 , 54547933997 prime_factors says:  [5, 7333, 54547933997.0]
+Prime?  False myFactor time:  0:00:46.661351 prime_factor time:  0:00:00.109359 Winner =  THEM
+Time Difference =  0:00:46.551992
+Finding factors of  2000000000000007 :  myFactor says:  873 , 2290950744559 prime_factors says:  [3, 3, 97, 2290950744559.0]
+Prime?  False myFactor time:  0:00:46.706816 prime_factor time:  0:00:00.750109 Winner =  THEM
+Time Difference =  0:00:45.956707
+Finding factors of  2000000000000009 :  myFactor says:  37604341 , 53185349 prime_factors says:  [7, 1049, 7243, 37604341.0]
+Prime?  False myFactor time:  0:00:01.906430 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:01.906430
+Finding factors of  2000000000000011 :  myFactor says:  21676901 , 92264111 prime_factors says:  [43, 4051, 5351, 2145677.0]
+Prime?  False myFactor time:  0:00:10.813674 prime_factor time:  0:00:00.015627 Winner =  THEM
+Time Difference =  0:00:10.798047
+Finding factors of  2000000000000013 :  myFactor says:  759 , 2635046113307 prime_factors says:  [3, 11, 23, 2635046113307.0]
+Prime?  False myFactor time:  0:00:46.786337 prime_factor time:  0:00:00.781363 Winner =  THEM
+Time Difference =  0:00:46.004974
+Finding factors of  2000000000000015 :  myFactor says:  10285145 , 194455207 prime_factors says:  [5, 13, 12799, 15193, 158233.0]
+Prime?  False myFactor time:  0:00:29.518858 prime_factor time:  0:00:00.015636 Winner =  THEM
+Time Difference =  0:00:29.503222
+Finding factors of  2000000000000017 :  myFactor says:  5939 , 336757029803 prime_factors says:  [5939, 336757029803.0]
+Prime?  False myFactor time:  0:00:46.880086 prime_factor time:  0:00:00.281252 Winner =  THEM
+Time Difference =  0:00:46.598834
+Finding factors of  2000000000000019 :  myFactor says:  201 , 9950248756219 prime_factors says:  [3, 67, 9950248756219.0]
+Prime?  False myFactor time:  0:00:46.723831 prime_factor time:  0:00:01.531444 Winner =  THEM
+Time Difference =  0:00:45.192387
+Finding factors of  2000000000000021 :  myFactor says:  1 , 2000000000000021 prime_factors says:  [2000000000000021]
+Prime?  False myFactor time:  0:00:46.738040 prime_factor time:  0:00:17.298783 Winner =  THEM
+Time Difference =  0:00:29.439257
+Finding factors of  2000000000000023 :  myFactor says:  362719 , 5513910217 prime_factors says:  [7, 51817, 5513910217.0]
+Prime?  False myFactor time:  0:00:46.098736 prime_factor time:  0:00:00.031280 Winner =  THEM
+Time Difference =  0:00:46.067456
+Finding factors of  2000000000000025 :  myFactor says:  2704725 , 739446709 prime_factors says:  [3, 3, 3, 5, 5, 4007, 739446709.0]
+Prime?  False myFactor time:  0:00:42.254969 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:42.254969
+Finding factors of  2000000000000027 :  myFactor says:  1411 , 1417434443657 prime_factors says:  [17, 83, 1417434443657.0]
+Prime?  False myFactor time:  0:00:46.770711 prime_factor time:  0:00:00.578188 Winner =  THEM
+Time Difference =  0:00:46.192523
+Finding factors of  2000000000000029 :  myFactor says:  28189933 , 70947313 prime_factors says:  [31, 73, 107, 293, 347, 81239.0]
+Prime?  False myFactor time:  0:00:05.766252 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:05.766252
+Finding factors of  2000000000000031 :  myFactor says:  233229 , 8575262939 prime_factors says:  [3, 77743, 8575262939.0]
+Prime?  False myFactor time:  0:00:46.301910 prime_factor time:  0:00:00.046907 Winner =  THEM
+Time Difference =  0:00:46.255003
+Finding factors of  2000000000000033 :  myFactor says:  33673 , 59394767321 prime_factors says:  [151, 223, 59394767321.0]
+Prime?  False myFactor time:  0:00:46.630042 prime_factor time:  0:00:00.109426 Winner =  THEM
+Time Difference =  0:00:46.520616
+Finding factors of  2000000000000035 :  myFactor says:  22385 , 89345543891 prime_factors says:  [5, 11, 11, 37, 89345543891.0]
+Prime?  False myFactor time:  0:00:46.723820 prime_factor time:  0:00:00.140612 Winner =  THEM
+Time Difference =  0:00:46.583208
+Finding factors of  2000000000000037 :  myFactor says:  24886659 , 80364343 prime_factors says:  [3, 7, 7, 79, 2143, 80364343.0]
+Prime?  False myFactor time:  0:00:07.672681 prime_factor time:  0:00:00.015627 Winner =  THEM
+Time Difference =  0:00:07.657054
+Finding factors of  2000000000000039 :  myFactor says:  40939061 , 48853099 prime_factors says:  [41, 1191539, 40939061.0]
+Prime?  False myFactor time:  0:00:00.937602 prime_factor time:  0:00:00.578188 Winner =  THEM
+Time Difference =  0:00:00.359414
+Finding factors of  2000000000000041 :  myFactor says:  24230263 , 82541407 prime_factors says:  [13, 19, 163, 38953, 1275277.0]
+Prime?  False myFactor time:  0:00:08.204045 prime_factor time:  0:00:00.015636 Winner =  THEM
+Time Difference =  0:00:08.188409
+Finding factors of  2000000000000043 :  myFactor says:  9 , 222222222222227 prime_factors says:  [3, 3, 222222222222227.0]
+Prime?  False myFactor time:  0:00:46.817553 prime_factor time:  0:00:07.282078 Winner =  THEM
+Time Difference =  0:00:39.535475
+Finding factors of  2000000000000045 :  myFactor says:  792065 , 2525045293 prime_factors says:  [5, 157, 1009, 2525045293.0]
+Prime?  False myFactor time:  0:00:45.426807 prime_factor time:  0:00:00.031255 Winner =  THEM
+Time Difference =  0:00:45.395552
+Finding factors of  2000000000000047 :  myFactor says:  459301 , 4354442947 prime_factors says:  [459301, 4354442947.0]
+Prime?  False myFactor time:  0:00:46.005008 prime_factor time:  0:00:00.171857 Winner =  THEM
+Time Difference =  0:00:45.833151
+Finding factors of  2000000000000049 :  myFactor says:  10759029 , 185890381 prime_factors says:  [3, 29, 123667, 185890381.0]
+Prime?  False myFactor time:  0:00:28.721902 prime_factor time:  0:00:00.062516 Winner =  THEM
+Time Difference =  0:00:28.659386
+Finding factors of  2000000000000051 :  myFactor says:  1615103 , 1238311117 prime_factors says:  [7, 230729, 1238311117.0]
+Prime?  False myFactor time:  0:00:44.201133 prime_factor time:  0:00:00.109359 Winner =  THEM
+Time Difference =  0:00:44.091774
+Finding factors of  2000000000000053 :  myFactor says:  547 , 3656307129799 prime_factors says:  [547, 3656307129799.0]
+Prime?  False myFactor time:  0:00:46.708209 prime_factor time:  0:00:00.937575 Winner =  THEM
+Time Difference =  0:00:45.770634
+Finding factors of  2000000000000055 :  myFactor says:  7616445 , 262589699 prime_factors says:  [3, 5, 397, 1279, 262589699.0]
+Prime?  False myFactor time:  0:00:33.941217 prime_factor time:  0:00:00.015600 Winner =  THEM
+Time Difference =  0:00:33.925617
+Finding factors of  2000000000000057 :  myFactor says:  11143 , 179484878399 prime_factors says:  [11, 1013, 179484878399.0]
+Prime?  False myFactor time:  0:00:48.858749 prime_factor time:  0:00:00.203147 Winner =  THEM
+Time Difference =  0:00:48.655602
+Finding factors of  2000000000000059 :  myFactor says:  23 , 86956521739133 prime_factors says:  [23, 86956521739133.0]
+Prime?  False myFactor time:  0:00:49.812467 prime_factor time:  0:00:05.021901 Winner =  THEM
+Time Difference =  0:00:44.790566
+Finding factors of  2000000000000061 :  myFactor says:  7191 , 278125434571 prime_factors says:  [3, 3, 17, 47, 278125434571.0]
+Prime?  False myFactor time:  0:00:49.116776 prime_factor time:  0:00:00.264166 Winner =  THEM
+Time Difference =  0:00:48.852610
+Finding factors of  2000000000000063 :  myFactor says:  867871 , 2304489953 prime_factors says:  [867871, 2304489953.0]
+Prime?  False myFactor time:  0:00:46.712390 prime_factor time:  0:00:00.359386 Winner =  THEM
+Time Difference =  0:00:46.353004
+Finding factors of  2000000000000065 :  myFactor says:  11339615 , 176372831 prime_factors says:  [5, 7, 53, 6113, 176372831.0]
+Prime?  False myFactor time:  0:00:27.669109 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:27.669109
+Finding factors of  2000000000000067 :  myFactor says:  32936019 , 60723793 prime_factors says:  [3, 13, 593, 7877, 10978673.0]
+Prime?  False myFactor time:  0:00:03.531940 prime_factor time:  0:00:00.015626 Winner =  THEM
+Time Difference =  0:00:03.516314
+Finding factors of  2000000000000069 :  myFactor says:  4261 , 469373386529 prime_factors says:  [4261, 469373386529.0]
+Prime?  False myFactor time:  0:00:46.873395 prime_factor time:  0:00:00.328163 Winner =  THEM
+Time Difference =  0:00:46.545232
+Finding factors of  2000000000000071 :  myFactor says:  175753 , 11379606607 prime_factors says:  [175753, 11379606607.0]
+Prime?  False myFactor time:  0:00:46.470428 prime_factor time:  0:00:00.078134 Winner =  THEM
+Time Difference =  0:00:46.392294
+Finding factors of  2000000000000073 :  myFactor says:  183903 , 10875298391 prime_factors says:  [3, 59, 1039, 10875298391.0]
+Prime?  False myFactor time:  0:00:46.592957 prime_factor time:  0:00:00.046880 Winner =  THEM
+Time Difference =  0:00:46.546077
+Finding factors of  2000000000000075 :  myFactor says:  5675 , 352422907489 prime_factors says:  [5, 5, 227, 352422907489.0]
+Prime?  False myFactor time:  0:00:46.922581 prime_factor time:  0:00:00.280454 Winner =  THEM
+Time Difference =  0:00:46.642127
+Finding factors of  2000000000000077 :  myFactor says:  1 , 2000000000000077 prime_factors says:  [2000000000000077]
+Prime?  False myFactor time:  0:00:47.033828 prime_factor time:  0:00:17.358337 Winner =  THEM
+Time Difference =  0:00:29.675491
+Finding factors of  2000000000000079 :  myFactor says:  38465911 , 51994089 prime_factors says:  [3, 3, 3, 7, 11, 19, 14479, 3496901.0]
+Prime?  False myFactor time:  0:00:01.657728 prime_factor time:  0:00:00.015625 Winner =  THEM
+Time Difference =  0:00:01.642103
+Finding factors of  2000000000000081 :  myFactor says:  1 , 2000000000000081 prime_factors says:  [2000000000000081]
+Prime?  False myFactor time:  0:00:47.102942 prime_factor time:  0:00:17.395500 Winner =  THEM
+Time Difference =  0:00:29.707442
+Finding factors of  2000000000000083 :  myFactor says:  61 , 32786885245903 prime_factors says:  [61, 32786885245903.0]
+Prime?  False myFactor time:  0:00:46.844521 prime_factor time:  0:00:02.809379 Winner =  THEM
+Time Difference =  0:00:44.035142
+Finding factors of  2000000000000085 :  myFactor says:  15 , 133333333333339 prime_factors says:  [3, 5, 133333333333339.0]
+Prime?  False myFactor time:  0:00:46.821612 prime_factor time:  0:00:05.652750 Winner =  THEM
+Time Difference =  0:00:41.168862
+Finding factors of  2000000000000087 :  myFactor says:  173 , 11560693641619 prime_factors says:  [173, 11560693641619.0]
+Prime?  False myFactor time:  0:00:46.850397 prime_factor time:  0:00:01.671890 Winner =  THEM
+Time Difference =  0:00:45.178507
+Finding factors of  2000000000000089 :  myFactor says:  1665449 , 1200877361 prime_factors says:  [1213, 1373, 1200877361.0]
+Prime?  False myFactor time:  0:00:44.095555 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:44.095555
+Finding factors of  2000000000000091 :  myFactor says:  20617827 , 97003433 prime_factors says:  [3, 31, 491, 6373, 6872609.0]
+Prime?  False myFactor time:  0:00:13.506978 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:13.506978
+Finding factors of  2000000000000093 :  myFactor says:  91 , 21978021978023 prime_factors says:  [7, 13, 21978021978023.0]
+Prime?  False myFactor time:  0:00:48.364815 prime_factor time:  0:00:02.297125 Winner =  THEM
+Time Difference =  0:00:46.067690
+Finding factors of  2000000000000095 :  myFactor says:  85 , 23529411764707 prime_factors says:  [5, 17, 23529411764707.0]
+Prime?  False myFactor time:  0:00:46.614443 prime_factor time:  0:00:02.375258 Winner =  THEM
+Time Difference =  0:00:44.239185
+Finding factors of  2000000000000097 :  myFactor says:  1121139 , 1783900123 prime_factors says:  [3, 3, 43, 2897, 1783900123.0]
+Prime?  False myFactor time:  0:00:44.723613 prime_factor time:  0:00:00.031253 Winner =  THEM
+Time Difference =  0:00:44.692360
+Finding factors of  2000000000000099 :  myFactor says:  9279659 , 215525161 prime_factors says:  [9279659, 215525161.0]
+Prime?  False myFactor time:  0:00:31.112783 prime_factor time:  0:00:03.594144 Winner =  THEM
+Time Difference =  0:00:27.518639
+Finding factors of  2000000000000101 :  myFactor says:  11 , 181818181818191 prime_factors says:  [11, 181818181818191.0]
+Prime?  False myFactor time:  0:00:46.598826 prime_factor time:  0:00:06.578832 Winner =  THEM
+Time Difference =  0:00:40.019994
+Finding factors of  2000000000000103 :  myFactor says:  23618139 , 84680677 prime_factors says:  [3, 149, 52837, 84680677.0]
+Prime?  False myFactor time:  0:00:08.688416 prime_factor time:  0:00:00.031253 Winner =  THEM
+Time Difference =  0:00:08.657163
+Finding factors of  2000000000000105 :  myFactor says:  26113595 , 76588459 prime_factors says:  [5, 23, 3329933, 5222719.0]
+Prime?  False myFactor time:  0:00:06.860162 prime_factor time:  0:00:01.625173 Winner =  THEM
+Time Difference =  0:00:05.234989
+Finding factors of  2000000000000107 :  myFactor says:  26389183 , 75788629 prime_factors says:  [7, 29, 373343, 26389183.0]
+Prime?  False myFactor time:  0:00:06.688235 prime_factor time:  0:00:00.187490 Winner =  THEM
+Time Difference =  0:00:06.500745
+Finding factors of  2000000000000109 :  myFactor says:  29193 , 68509574213 prime_factors says:  [3, 37, 263, 68509574213.0]
+Prime?  False myFactor time:  0:00:46.630107 prime_factor time:  0:00:00.125005 Winner =  THEM
+Time Difference =  0:00:46.505102
+Finding factors of  2000000000000111 :  myFactor says:  971101 , 2059518011 prime_factors says:  [743, 1307, 2059518011.0]
+Prime?  False myFactor time:  0:00:45.555451 prime_factor time:  0:00:00.044462 Winner =  THEM
+Time Difference =  0:00:45.510989
+Finding factors of  2000000000000113 :  myFactor says:  1 , 2000000000000113 prime_factors says:  [2000000000000113]
+Prime?  False myFactor time:  0:00:50.938916 prime_factor time:  0:00:17.766558 Winner =  THEM
+Time Difference =  0:00:33.172358
+Finding factors of  2000000000000115 :  myFactor says:  160695 , 12445937957 prime_factors says:  [3, 3, 5, 3571, 12445937957.0]
+Prime?  False myFactor time:  0:00:47.668039 prime_factor time:  0:00:00.054173 Winner =  THEM
+Time Difference =  0:00:47.613866
+Finding factors of  2000000000000117 :  myFactor says:  19 , 105263157894743 prime_factors says:  [19, 105263157894743.0]
+Prime?  False myFactor time:  0:00:47.856222 prime_factor time:  0:00:05.143168 Winner =  THEM
+Time Difference =  0:00:42.713054
+Finding factors of  2000000000000119 :  myFactor says:  13 , 153846153846163 prime_factors says:  [13, 153846153846163.0]
+Prime?  False myFactor time:  0:00:47.936856 prime_factor time:  0:00:06.180142 Winner =  THEM
+Time Difference =  0:00:41.756714
+Finding factors of  2000000000000121 :  myFactor says:  38879849 , 51440529 prime_factors says:  [3, 7, 41, 41, 101, 229, 2449549.0]
+Prime?  False myFactor time:  0:00:01.575511 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:01.575511
+Finding factors of  2000000000000123 :  myFactor says:  30517451 , 65536273 prime_factors says:  [11, 5957843, 30517451.0]
+Prime?  False myFactor time:  0:00:04.721926 prime_factor time:  0:00:03.002931 Winner =  THEM
+Time Difference =  0:00:01.718995
+Finding factors of  2000000000000125 :  myFactor says:  29125 , 68669527897 prime_factors says:  [5, 5, 5, 233, 68669527897.0]
+Prime?  False myFactor time:  0:00:47.868386 prime_factor time:  0:00:00.116374 Winner =  THEM
+Time Difference =  0:00:47.752012
+Finding factors of  2000000000000127 :  myFactor says:  14723283 , 135839269 prime_factors says:  [3, 4907761, 135839269.0]
+Prime?  False myFactor time:  0:00:22.583140 prime_factor time:  0:00:02.457753 Winner =  THEM
+Time Difference =  0:00:20.125387
+Finding factors of  2000000000000129 :  myFactor says:  19541107 , 102348347 prime_factors says:  [17, 89, 89, 2467, 6020491.0]
+Prime?  False myFactor time:  0:00:14.332713 prime_factor time:  0:00:00.003853 Winner =  THEM
+Time Difference =  0:00:14.328860
+Finding factors of  2000000000000131 :  myFactor says:  1750181 , 1142738951 prime_factors says:  [1750181, 1142738951.0]
+Prime?  False myFactor time:  0:00:44.794577 prime_factor time:  0:00:00.711950 Winner =  THEM
+Time Difference =  0:00:44.082627
+Finding factors of  2000000000000133 :  myFactor says:  25191 , 79393434163 prime_factors says:  [3, 3, 3, 3, 311, 79393434163.0]
+Prime?  False myFactor time:  0:00:49.287274 prime_factor time:  0:00:00.139429 Winner =  THEM
+Time Difference =  0:00:49.147845
+Finding factors of  2000000000000135 :  myFactor says:  33862087 , 59063105 prime_factors says:  [5, 7, 7, 691063, 11812621.0]
+Prime?  False myFactor time:  0:00:03.395207 prime_factor time:  0:00:00.359442 Winner =  THEM
+Time Difference =  0:00:03.035765
+Finding factors of  2000000000000137 :  myFactor says:  5693573 , 351273269 prime_factors says:  [113, 3108613, 5693573.0]
+Prime?  False myFactor time:  0:00:38.605527 prime_factor time:  0:00:01.547044 Winner =  THEM
+Time Difference =  0:00:37.058483
+Finding factors of  2000000000000139 :  myFactor says:  213 , 9389671361503 prime_factors says:  [3, 71, 9389671361503.0]
+Prime?  False myFactor time:  0:00:48.415256 prime_factor time:  0:00:01.600558 Winner =  THEM
+Time Difference =  0:00:46.814698
+Finding factors of  2000000000000141 :  myFactor says:  2386247 , 838136203 prime_factors says:  [2386247, 838136203.0]
+Prime?  False myFactor time:  0:00:44.197398 prime_factor time:  0:00:00.968883 Winner =  THEM
+Time Difference =  0:00:43.228515
+Finding factors of  2000000000000143 :  myFactor says:  1 , 2000000000000143 prime_factors says:  [2000000000000143]
+Prime?  False myFactor time:  0:00:48.429504 prime_factor time:  0:00:17.835114 Winner =  THEM
+Time Difference =  0:00:30.594390
+Finding factors of  2000000000000145 :  myFactor says:  42836959 , 46688655 prime_factors says:  [3, 5, 11, 13, 239429, 3894269.0]
+Prime?  False myFactor time:  0:00:00.469181 prime_factor time:  0:00:00.109350 Winner =  THEM
+Time Difference =  0:00:00.359831
+Finding factors of  2000000000000147 :  myFactor says:  739 , 2706359945873 prime_factors says:  [739, 2706359945873.0]
+Prime?  False myFactor time:  0:00:48.558291 prime_factor time:  0:00:00.812588 Winner =  THEM
+Time Difference =  0:00:47.745703
+Finding factors of  2000000000000149 :  myFactor says:  62069 , 32222204321 prime_factors says:  [7, 8867, 32222204321.0]
+Prime?  False myFactor time:  0:00:48.377551 prime_factor time:  0:00:00.093738 Winner =  THEM
+Time Difference =  0:00:48.283813
+Finding factors of  2000000000000151 :  myFactor says:  96669 , 20689155779 prime_factors says:  [3, 3, 23, 467, 20689155779.0]
+Prime?  False myFactor time:  0:00:48.740666 prime_factor time:  0:00:00.076101 Winner =  THEM
+Time Difference =  0:00:48.664565
+Finding factors of  2000000000000153 :  myFactor says:  39278147 , 50918899 prime_factors says:  [31, 67, 18911, 50918899.0]
+Prime?  False myFactor time:  0:00:01.614152 prime_factor time:  0:00:00.008010 Winner =  THEM
+Time Difference =  0:00:01.606142
+Finding factors of  2000000000000155 :  myFactor says:  22738633 , 87956035 prime_factors says:  [5, 19, 47, 1063, 19699, 21391.0]
+Prime?  False myFactor time:  0:00:10.566073 prime_factor time:  0:00:00.015622 Winner =  THEM
+Time Difference =  0:00:10.550451
+Finding factors of  2000000000000157 :  myFactor says:  3 , 666666666666719 prime_factors says:  [3, 666666666666719.0]
+Prime?  False myFactor time:  0:00:48.513172 prime_factor time:  0:00:13.162993 Winner =  THEM
+Time Difference =  0:00:35.350179
+Finding factors of  2000000000000159 :  myFactor says:  2808329 , 712167271 prime_factors says:  [2351, 302921, 2808329.0]
+Prime?  False myFactor time:  0:00:43.516436 prime_factor time:  0:00:00.158069 Winner =  THEM
+Time Difference =  0:00:43.358367
+Finding factors of  2000000000000161 :  myFactor says:  349411 , 5723918251 prime_factors says:  [349411, 5723918251.0]
+Prime?  False myFactor time:  0:00:48.109849 prime_factor time:  0:00:00.149232 Winner =  THEM
+Time Difference =  0:00:47.960617
+Finding factors of  2000000000000163 :  myFactor says:  357 , 5602240896359 prime_factors says:  [3, 7, 17, 5602240896359.0]
+Prime?  False myFactor time:  0:00:48.353572 prime_factor time:  0:00:01.182524 Winner =  THEM
+Time Difference =  0:00:47.171048
+Finding factors of  2000000000000165 :  myFactor says:  145 , 13793103448277 prime_factors says:  [5, 29, 13793103448277.0]
+Prime?  False myFactor time:  0:00:48.347262 prime_factor time:  0:00:01.901788 Winner =  THEM
+Time Difference =  0:00:46.445474
+Finding factors of  2000000000000167 :  myFactor says:  26967713 , 74162759 prime_factors says:  [11, 181, 193, 193, 26967713.0]
+Prime?  False myFactor time:  0:00:06.583855 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:06.583855
+Finding factors of  2000000000000169 :  myFactor says:  4707 , 424899086467 prime_factors says:  [3, 3, 523, 424899086467.0]
+Prime?  False myFactor time:  0:00:48.334628 prime_factor time:  0:00:00.328167 Winner =  THEM
+Time Difference =  0:00:48.006461
+Finding factors of  2000000000000171 :  myFactor says:  25477153 , 78501707 prime_factors says:  [13, 53, 103, 359, 78501707.0]
+Prime?  False myFactor time:  0:00:07.497963 prime_factor time:  0:00:00.015657 Winner =  THEM
+Time Difference =  0:00:07.482306
+Finding factors of  2000000000000173 :  myFactor says:  983 , 2034587995931 prime_factors says:  [983, 2034587995931.0]
+Prime?  False myFactor time:  0:00:49.569532 prime_factor time:  0:00:00.710112 Winner =  THEM
+Time Difference =  0:00:48.859420
+Finding factors of  2000000000000175 :  myFactor says:  5475 , 365296803653 prime_factors says:  [3, 5, 5, 73, 365296803653.0]
+Prime?  False myFactor time:  0:00:48.622441 prime_factor time:  0:00:00.296904 Winner =  THEM
+Time Difference =  0:00:48.325537
+Finding factors of  2000000000000177 :  myFactor says:  7 , 285714285714311 prime_factors says:  [7, 285714285714311.0]
+Prime?  False myFactor time:  0:00:48.398402 prime_factor time:  0:00:08.525155 Winner =  THEM
+Time Difference =  0:00:39.873247
+Finding factors of  2000000000000179 :  myFactor says:  1 , 2000000000000179 prime_factors says:  [2000000000000179]
+Prime?  False myFactor time:  0:00:48.416866 prime_factor time:  0:00:17.784400 Winner =  THEM
+Time Difference =  0:00:30.632466
+Finding factors of  2000000000000181 :  myFactor says:  3 , 666666666666727 prime_factors says:  [3, 666666666666727.0]
+Prime?  False myFactor time:  0:00:48.357656 prime_factor time:  0:00:13.119930 Winner =  THEM
+Time Difference =  0:00:35.237726
+Finding factors of  2000000000000183 :  myFactor says:  1591 , 1257071024513 prime_factors says:  [37, 43, 1257071024513.0]
+Prime?  False myFactor time:  0:00:48.262269 prime_factor time:  0:00:00.546907 Winner =  THEM
+Time Difference =  0:00:47.715362
+Finding factors of  2000000000000185 :  myFactor says:  9535 , 209753539591 prime_factors says:  [5, 1907, 209753539591.0]
+Prime?  False myFactor time:  0:00:48.376778 prime_factor time:  0:00:00.234434 Winner =  THEM
+Time Difference =  0:00:48.142344
+Finding factors of  2000000000000187 :  myFactor says:  732429 , 2730640103 prime_factors says:  [3, 3, 3, 27127, 2730640103.0]
+Prime?  False myFactor time:  0:00:48.505645 prime_factor time:  0:00:00.031253 Winner =  THEM
+Time Difference =  0:00:48.474392
+Finding factors of  2000000000000189 :  myFactor says:  5211481 , 383768069 prime_factors says:  [11, 383, 1237, 383768069.0]
+Prime?  False myFactor time:  0:00:39.330652 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:39.330652
+Finding factors of  2000000000000191 :  myFactor says:  413 , 4842615012107 prime_factors says:  [7, 59, 4842615012107.0]
+Prime?  False myFactor time:  0:00:48.323421 prime_factor time:  0:00:01.118396 Winner =  THEM
+Time Difference =  0:00:47.205025
+Finding factors of  2000000000000193 :  myFactor says:  4731 , 422743606003 prime_factors says:  [3, 19, 83, 422743606003.0]
+Prime?  False myFactor time:  0:00:48.371045 prime_factor time:  0:00:00.312526 Winner =  THEM
+Time Difference =  0:00:48.058519
+Finding factors of  2000000000000195 :  myFactor says:  395 , 5063291139241 prime_factors says:  [5, 79, 5063291139241.0]
+Prime?  False myFactor time:  0:00:48.367082 prime_factor time:  0:00:01.161024 Winner =  THEM
+Time Difference =  0:00:47.206058
+Finding factors of  2000000000000197 :  myFactor says:  32241469 , 62031913 prime_factors says:  [13, 17, 23, 179, 6343, 346547.0]
+Prime?  False myFactor time:  0:00:03.939768 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:03.939768
+Finding factors of  2000000000000199 :  myFactor says:  41359169 , 48356871 prime_factors says:  [3, 691, 23327, 41359169.0]
+Prime?  False myFactor time:  0:00:00.843847 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:00.843847
+Finding factors of  2000000000000201 :  myFactor says:  601109 , 3327183589 prime_factors says:  [97, 6197, 3327183589.0]
+Prime?  False myFactor time:  0:00:47.361029 prime_factor time:  0:00:00.015626 Winner =  THEM
+Time Difference =  0:00:47.345403
+Finding factors of  2000000000000203 :  myFactor says:  86551 , 23107763053 prime_factors says:  [41, 2111, 23107763053.0]
+Prime?  False myFactor time:  0:00:48.539589 prime_factor time:  0:00:00.062536 Winner =  THEM
+Time Difference =  0:00:48.477053
+Finding factors of  2000000000000205 :  myFactor says:  19215 , 104085349987 prime_factors says:  [3, 3, 5, 7, 61, 104085349987.0]
+Prime?  False myFactor time:  0:00:48.421362 prime_factor time:  0:00:00.187422 Winner =  THEM
+Time Difference =  0:00:48.233940
+Finding factors of  2000000000000207 :  myFactor says:  1 , 2000000000000207 prime_factors says:  [2000000000000207]
+Prime?  False myFactor time:  0:00:49.007935 prime_factor time:  0:00:17.619132 Winner =  THEM
+Time Difference =  0:00:31.388803
+Finding factors of  2000000000000209 :  myFactor says:  30391 , 65808956599 prime_factors says:  [30391, 65808956599.0]
+Prime?  False myFactor time:  0:00:47.833700 prime_factor time:  0:00:00.125015 Winner =  THEM
+Time Difference =  0:00:47.708685
+Finding factors of  2000000000000211 :  myFactor says:  8877 , 225301340543 prime_factors says:  [3, 11, 269, 225301340543.0]
+Prime?  False myFactor time:  0:00:47.927318 prime_factor time:  0:00:00.218801 Winner =  THEM
+Time Difference =  0:00:47.708517
+Finding factors of  2000000000000213 :  myFactor says:  9440411 , 211855183 prime_factors says:  [211, 1697, 5563, 1004053.0]
+Prime?  False myFactor time:  0:00:31.639166 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:31.639166
+Finding factors of  2000000000000215 :  myFactor says:  741365 , 2697726491 prime_factors says:  [5, 31, 4783, 2697726491.0]
+Prime?  False myFactor time:  0:00:46.566246 prime_factor time:  0:00:00.016670 Winner =  THEM
+Time Difference =  0:00:46.549576
+Finding factors of  2000000000000217 :  myFactor says:  473169 , 4226819593 prime_factors says:  [3, 109, 1447, 4226819593.0]
+Prime?  False myFactor time:  0:00:47.101719 prime_factor time:  0:00:00.031252 Winner =  THEM
+Time Difference =  0:00:47.070467
+Finding factors of  2000000000000219 :  myFactor says:  30985633 , 64546043 prime_factors says:  [7, 137, 239, 18521, 471139.0]
+Prime?  False myFactor time:  0:00:04.455517 prime_factor time:  0:00:00.015627 Winner =  THEM
+Time Difference =  0:00:04.439890
+Finding factors of  2000000000000221 :  myFactor says:  15854231 , 126149291 prime_factors says:  [15854231, 126149291.0]
+Prime?  False myFactor time:  0:00:20.741554 prime_factor time:  0:00:06.267387 Winner =  THEM
+Time Difference =  0:00:14.474167
+Finding factors of  2000000000000223 :  myFactor says:  939861 , 2127974243 prime_factors says:  [3, 3, 13, 29, 277, 2127974243.0]
+Prime?  False myFactor time:  0:00:46.203679 prime_factor time:  0:00:00.031254 Winner =  THEM
+Time Difference =  0:00:46.172425
+Finding factors of  2000000000000225 :  myFactor says:  108725 , 18395033341 prime_factors says:  [5, 5, 4349, 18395033341.0]
+Prime?  False myFactor time:  0:00:49.725149 prime_factor time:  0:00:00.062509 Winner =  THEM
+Time Difference =  0:00:49.662640
+Finding factors of  2000000000000227 :  myFactor says:  1 , 2000000000000227 prime_factors says:  [2000000000000227]
+Prime?  False myFactor time:  0:00:48.465743 prime_factor time:  0:00:17.865804 Winner =  THEM
+Time Difference =  0:00:30.599939
+Finding factors of  2000000000000229 :  myFactor says:  3543 , 564493367203 prime_factors says:  [3, 1181, 564493367203.0]
+Prime?  False myFactor time:  0:00:48.401503 prime_factor time:  0:00:00.375011 Winner =  THEM
+Time Difference =  0:00:48.026492
+Finding factors of  2000000000000231 :  myFactor says:  32418541 , 61693091 prime_factors says:  [17, 19, 167, 601, 6301, 9791.0]
+Prime?  False myFactor time:  0:00:03.894793 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:03.894793
+Finding factors of  2000000000000233 :  myFactor says:  44663521 , 44779273 prime_factors says:  [7, 7, 11, 581549, 6380503.0]
+Prime?  False myFactor time:  0:00:00.015595 prime_factor time:  0:00:00.281306 Winner =  ME
+Time Difference =  -1 day, 23:59:59.734289
+Finding factors of  2000000000000235 :  myFactor says:  130965 , 15271255679 prime_factors says:  [3, 5, 8731, 15271255679.0]
+Prime?  False myFactor time:  0:00:48.027086 prime_factor time:  0:00:00.062498 Winner =  THEM
+Time Difference =  0:00:47.964588
+Finding factors of  2000000000000237 :  myFactor says:  1 , 2000000000000237 prime_factors says:  [2000000000000237]
+Prime?  False myFactor time:  0:00:48.342524 prime_factor time:  0:00:17.826700 Winner =  THEM
+Time Difference =  0:00:30.515824
+Finding factors of  2000000000000239 :  myFactor says:  138401 , 14450762639 prime_factors says:  [138401, 14450762639.0]
+Prime?  False myFactor time:  0:00:48.083808 prime_factor time:  0:00:00.046880 Winner =  THEM
+Time Difference =  0:00:48.036928
+Finding factors of  2000000000000241 :  myFactor says:  19564929 , 102223729 prime_factors says:  [3, 3, 3, 724627, 102223729.0]
+Prime?  False myFactor time:  0:00:14.439465 prime_factor time:  0:00:00.406383 Winner =  THEM
+Time Difference =  0:00:14.033082
+Finding factors of  2000000000000243 :  myFactor says:  11320493 , 176670751 prime_factors says:  [23, 107, 241, 439, 7681337.0]
+Prime?  False myFactor time:  0:00:29.628531 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:29.628531
+Finding factors of  2000000000000245 :  myFactor says:  3349105 , 597174469 prime_factors says:  [5, 317, 2113, 597174469.0]
+Prime?  False myFactor time:  0:00:43.230873 prime_factor time:  0:00:00.015628 Winner =  THEM
+Time Difference =  0:00:43.215245
+Finding factors of  2000000000000247 :  myFactor says:  24873933 , 80405459 prime_factors says:  [3, 7, 1184473, 80405459.0]
+Prime?  False myFactor time:  0:00:07.947302 prime_factor time:  0:00:00.578189 Winner =  THEM
+Time Difference =  0:00:07.369113
+Finding factors of  2000000000000249 :  myFactor says:  2583919 , 774018071 prime_factors says:  [13, 47, 4229, 774018071.0]
+Prime?  False myFactor time:  0:00:43.921948 prime_factor time:  0:00:00.015622 Winner =  THEM
+Time Difference =  0:00:43.906326
+Finding factors of  2000000000000251 :  myFactor says:  131 , 15267175572521 prime_factors says:  [131, 15267175572521.0]
+Prime?  False myFactor time:  0:00:48.734091 prime_factor time:  0:00:01.974700 Winner =  THEM
+Time Difference =  0:00:46.759391
+Finding factors of  2000000000000253 :  myFactor says:  30418851 , 65748703 prime_factors says:  [3, 191, 53087, 65748703.0]
+Prime?  False myFactor time:  0:00:04.788629 prime_factor time:  0:00:00.031253 Winner =  THEM
+Time Difference =  0:00:04.757376
+Finding factors of  2000000000000255 :  myFactor says:  34381313 , 58171135 prime_factors says:  [5, 11, 127, 270719, 1057657.0]
+Prime?  False myFactor time:  0:00:03.116397 prime_factor time:  0:00:00.125053 Winner =  THEM
+Time Difference =  0:00:02.991344
+Finding factors of  2000000000000257 :  myFactor says:  182669 , 10948765253 prime_factors says:  [37, 4937, 10948765253.0]
+Prime?  False myFactor time:  0:00:48.106526 prime_factor time:  0:00:00.046879 Winner =  THEM
+Time Difference =  0:00:48.059647
+Finding factors of  2000000000000259 :  myFactor says:  9 , 222222222222251 prime_factors says:  [3, 3, 222222222222251.0]
+Prime?  False myFactor time:  0:00:48.385659 prime_factor time:  0:00:07.507921 Winner =  THEM
+Time Difference =  0:00:40.877738
+Finding factors of  2000000000000261 :  myFactor says:  719887 , 2778213803 prime_factors says:  [7, 102841, 2778213803.0]
+Prime?  False myFactor time:  0:00:47.124259 prime_factor time:  0:00:00.046878 Winner =  THEM
+Time Difference =  0:00:47.077381
+Finding factors of  2000000000000263 :  myFactor says:  1 , 2000000000000263 prime_factors says:  [2000000000000263]
+Prime?  False myFactor time:  0:00:48.358966 prime_factor time:  0:00:19.053732 Winner =  THEM
+Time Difference =  0:00:29.305234
+Finding factors of  2000000000000265 :  myFactor says:  35445 , 56425447877 prime_factors says:  [3, 5, 17, 139, 56425447877.0]
+Prime?  False myFactor time:  0:00:48.486763 prime_factor time:  0:00:00.109359 Winner =  THEM
+Time Difference =  0:00:48.377404
+Finding factors of  2000000000000267 :  myFactor says:  4472137 , 447213491 prime_factors says:  [337, 1327043, 4472137.0]
+Prime?  False myFactor time:  0:00:40.789095 prime_factor time:  0:00:00.671947 Winner =  THEM
+Time Difference =  0:00:40.117148
+Finding factors of  2000000000000269 :  myFactor says:  20958557 , 95426417 prime_factors says:  [19, 43, 271, 431, 20958557.0]
+Prime?  False myFactor time:  0:00:12.125327 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:12.125327
+Finding factors of  2000000000000271 :  myFactor says:  27863317 , 71778963 prime_factors says:  [3, 23926321, 27863317.0]
+Prime?  False myFactor time:  0:00:06.088222 prime_factor time:  0:00:11.856840 Winner =  ME
+Time Difference =  -1 day, 23:59:54.231382
+Finding factors of  2000000000000273 :  myFactor says:  9444983 , 211752631 prime_factors says:  [9444983, 211752631.0]
+Prime?  False myFactor time:  0:00:31.936232 prime_factor time:  0:00:03.795099 Winner =  THEM
+Time Difference =  0:00:28.141133
+Finding factors of  2000000000000275 :  myFactor says:  37986095 , 52650845 prime_factors says:  [5, 5, 7, 13, 810013, 1085317.0]
+Prime?  False myFactor time:  0:00:01.812717 prime_factor time:  0:00:00.390674 Winner =  THEM
+Time Difference =  0:00:01.422043
+Finding factors of  2000000000000277 :  myFactor says:  41501669 , 48190833 prime_factors says:  [3, 3, 11, 11, 31, 53, 3259, 342989.0]
+Prime?  False myFactor time:  0:00:00.824985 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:00.824985
+Finding factors of  2000000000000279 :  myFactor says:  91153 , 21941131943 prime_factors says:  [91153, 21941131943.0]
+Prime?  False myFactor time:  0:00:48.239183 prime_factor time:  0:00:00.065274 Winner =  THEM
+Time Difference =  0:00:48.173909
+Finding factors of  2000000000000281 :  myFactor says:  34803277 , 57465853 prime_factors says:  [29, 71, 16903, 57465853.0]
+Prime?  False myFactor time:  0:00:02.893520 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:02.893520
+Finding factors of  2000000000000283 :  myFactor says:  3 , 666666666666761 prime_factors says:  [3, 666666666666761.0]
+Prime?  False myFactor time:  0:00:48.412205 prime_factor time:  0:00:13.147762 Winner =  THEM
+Time Difference =  0:00:35.264443
+Finding factors of  2000000000000285 :  myFactor says:  36671507 , 54538255 prime_factors says:  [5, 41, 894427, 10907651.0]
+Prime?  False myFactor time:  0:00:02.234588 prime_factor time:  0:00:00.453199 Winner =  THEM
+Time Difference =  0:00:01.781389
+Finding factors of  2000000000000287 :  myFactor says:  20154947 , 99231221 prime_factors says:  [67, 557, 2659, 3343, 6029.0]
+Prime?  False myFactor time:  0:00:13.485465 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:13.485465
+Finding factors of  2000000000000289 :  myFactor says:  483 , 4140786749483 prime_factors says:  [3, 7, 23, 4140786749483.0]
+Prime?  False myFactor time:  0:00:48.338674 prime_factor time:  0:00:01.000109 Winner =  THEM
+Time Difference =  0:00:47.338565
+Finding factors of  2000000000000291 :  myFactor says:  27573379 , 72533729 prime_factors says:  [251, 2719, 10141, 288979.0]
+Prime?  False myFactor time:  0:00:06.288521 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:06.288521
+Finding factors of  2000000000000293 :  myFactor says:  1 , 2000000000000293 prime_factors says:  [2000000000000293]
+Prime?  False myFactor time:  0:00:49.662171 prime_factor time:  0:00:17.728705 Winner =  THEM
+Time Difference =  0:00:31.933466
+Finding factors of  2000000000000295 :  myFactor says:  405 , 4938271604939 prime_factors says:  [3, 3, 3, 3, 5, 4938271604939.0]
+Prime?  False myFactor time:  0:00:48.028272 prime_factor time:  0:00:01.114042 Winner =  THEM
+Time Difference =  0:00:46.914230
+Finding factors of  2000000000000297 :  myFactor says:  37190393 , 53777329 prime_factors says:  [827, 65027, 37190393.0]
+Prime?  False myFactor time:  0:00:02.089230 prime_factor time:  0:00:00.031255 Winner =  THEM
+Time Difference =  0:00:02.057975
+Finding factors of  2000000000000299 :  myFactor says:  24552947 , 81456617 prime_factors says:  [11, 17, 307, 24121, 1444291.0]
+Prime?  False myFactor time:  0:00:08.153787 prime_factor time:  0:00:00.015600 Winner =  THEM
+Time Difference =  0:00:08.138187
+Finding factors of  2000000000000301 :  myFactor says:  142467 , 14038338703 prime_factors says:  [3, 13, 13, 281, 14038338703.0]
+Prime?  False myFactor time:  0:00:47.735334 prime_factor time:  0:00:00.062471 Winner =  THEM
+Time Difference =  0:00:47.672863
+Finding factors of  2000000000000303 :  myFactor says:  7 , 285714285714329 prime_factors says:  [7, 285714285714329.0]
+Prime?  False myFactor time:  0:00:48.044391 prime_factor time:  0:00:08.466713 Winner =  THEM
+Time Difference =  0:00:39.577678
+Finding factors of  2000000000000305 :  myFactor says:  1156895 , 1728765359 prime_factors says:  [5, 231379, 1728765359.0]
+Prime?  False myFactor time:  0:00:45.978513 prime_factor time:  0:00:00.125015 Winner =  THEM
+Time Difference =  0:00:45.853498
+Finding factors of  2000000000000307 :  myFactor says:  39422283 , 50732729 prime_factors says:  [3, 19, 19, 89, 409, 50732729.0]
+Prime?  False myFactor time:  0:00:01.375149 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:01.375149
+Finding factors of  2000000000000309 :  myFactor says:  28020929 , 71375221 prime_factors says:  [59, 474931, 71375221.0]
+Prime?  False myFactor time:  0:00:05.974534 prime_factor time:  0:00:00.232918 Winner =  THEM
+Time Difference =  0:00:05.741616
+Finding factors of  2000000000000311 :  myFactor says:  1022393 , 1956194927 prime_factors says:  [373, 2741, 1956194927.0]
+Prime?  False myFactor time:  0:00:46.423144 prime_factor time:  0:00:00.015638 Winner =  THEM
+Time Difference =  0:00:46.407506
+Finding factors of  2000000000000313 :  myFactor says:  37267793 , 53665641 prime_factors says:  [3, 3, 569, 65497, 5962849.0]
+Prime?  False myFactor time:  0:00:02.076743 prime_factor time:  0:00:00.031288 Winner =  THEM
+Time Difference =  0:00:02.045455
+Finding factors of  2000000000000315 :  myFactor says:  5 , 400000000000063 prime_factors says:  [5, 400000000000063.0]
+Prime?  False myFactor time:  0:17:14.393035 prime_factor time:  0:00:11.594221 Winner =  THEM
+Time Difference =  0:17:02.798814
+Finding factors of  2000000000000317 :  myFactor says:  274421 , 7288071977 prime_factors says:  [7, 197, 199, 7288071977.0]
+Prime?  False myFactor time:  0:00:51.167051 prime_factor time:  0:00:00.031252 Winner =  THEM
+Time Difference =  0:00:51.135799
+Finding factors of  21 :  myFactor says:  3 , 7 prime_factors says:  [3, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  23 :  myFactor says:  1 , 23 prime_factors says:  [23]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  25 :  myFactor says:  5 , 5 prime_factors says:  [5, 5]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  27 :  myFactor says:  3 , 9 prime_factors says:  [3, 3, 3]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  29 :  myFactor says:  1 , 29 prime_factors says:  [29]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  31 :  myFactor says:  1 , 31 prime_factors says:  [31]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  33 :  myFactor says:  3 , 11 prime_factors says:  [3, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  35 :  myFactor says:  5 , 7 prime_factors says:  [5, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  37 :  myFactor says:  1 , 37 prime_factors says:  [37]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  39 :  myFactor says:  3 , 13 prime_factors says:  [3, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  41 :  myFactor says:  1 , 41 prime_factors says:  [41]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  43 :  myFactor says:  1 , 43 prime_factors says:  [43]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  45 :  myFactor says:  5 , 9 prime_factors says:  [3, 3, 5.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  47 :  myFactor says:  1 , 47 prime_factors says:  [47]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  49 :  myFactor says:  7 , 7 prime_factors says:  [7, 7]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  51 :  myFactor says:  3 , 17 prime_factors says:  [3, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  53 :  myFactor says:  1 , 53 prime_factors says:  [53]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  55 :  myFactor says:  5 , 11 prime_factors says:  [5, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  57 :  myFactor says:  3 , 19 prime_factors says:  [3, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  59 :  myFactor says:  1 , 59 prime_factors says:  [59]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  61 :  myFactor says:  1 , 61 prime_factors says:  [61]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  63 :  myFactor says:  7 , 9 prime_factors says:  [3, 3, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  65 :  myFactor says:  5 , 13 prime_factors says:  [5, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  67 :  myFactor says:  1 , 67 prime_factors says:  [67]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  69 :  myFactor says:  3 , 23 prime_factors says:  [3, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  71 :  myFactor says:  1 , 71 prime_factors says:  [71]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  73 :  myFactor says:  1 , 73 prime_factors says:  [73]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  75 :  myFactor says:  5 , 15 prime_factors says:  [3, 5, 5]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  77 :  myFactor says:  7 , 11 prime_factors says:  [7, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  79 :  myFactor says:  1 , 79 prime_factors says:  [79]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  81 :  myFactor says:  9 , 9 prime_factors says:  [3, 3, 3, 3]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  83 :  myFactor says:  1 , 83 prime_factors says:  [83]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  85 :  myFactor says:  5 , 17 prime_factors says:  [5, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  87 :  myFactor says:  3 , 29 prime_factors says:  [3, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  89 :  myFactor says:  1 , 89 prime_factors says:  [89]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  91 :  myFactor says:  7 , 13 prime_factors says:  [7, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  93 :  myFactor says:  3 , 31 prime_factors says:  [3, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  95 :  myFactor says:  5 , 19 prime_factors says:  [5, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  97 :  myFactor says:  1 , 97 prime_factors says:  [97]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  99 :  myFactor says:  9 , 11 prime_factors says:  [3, 3, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  101 :  myFactor says:  1 , 101 prime_factors says:  [101]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  103 :  myFactor says:  1 , 103 prime_factors says:  [103]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  105 :  myFactor says:  7 , 15 prime_factors says:  [3, 5, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  107 :  myFactor says:  1 , 107 prime_factors says:  [107]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  109 :  myFactor says:  1 , 109 prime_factors says:  [109]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  111 :  myFactor says:  3 , 37 prime_factors says:  [3, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  113 :  myFactor says:  1 , 113 prime_factors says:  [113]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  115 :  myFactor says:  5 , 23 prime_factors says:  [5, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  117 :  myFactor says:  9 , 13 prime_factors says:  [3, 3, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  119 :  myFactor says:  7 , 17 prime_factors says:  [7, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  121 :  myFactor says:  11 , 11 prime_factors says:  [11, 11]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  123 :  myFactor says:  3 , 41 prime_factors says:  [3, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  125 :  myFactor says:  5 , 25 prime_factors says:  [5, 5, 5]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  127 :  myFactor says:  1 , 127 prime_factors says:  [127]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  129 :  myFactor says:  3 , 43 prime_factors says:  [3, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  131 :  myFactor says:  1 , 131 prime_factors says:  [131]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  133 :  myFactor says:  7 , 19 prime_factors says:  [7, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  135 :  myFactor says:  9 , 15 prime_factors says:  [3, 3, 3, 5.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  137 :  myFactor says:  1 , 137 prime_factors says:  [137]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  139 :  myFactor says:  1 , 139 prime_factors says:  [139]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  141 :  myFactor says:  3 , 47 prime_factors says:  [3, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  143 :  myFactor says:  11 , 13 prime_factors says:  [11, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  145 :  myFactor says:  5 , 29 prime_factors says:  [5, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  147 :  myFactor says:  7 , 21 prime_factors says:  [3, 7, 7]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  149 :  myFactor says:  1 , 149 prime_factors says:  [149]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  151 :  myFactor says:  1 , 151 prime_factors says:  [151]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  153 :  myFactor says:  9 , 17 prime_factors says:  [3, 3, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  155 :  myFactor says:  5 , 31 prime_factors says:  [5, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  157 :  myFactor says:  1 , 157 prime_factors says:  [157]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  159 :  myFactor says:  3 , 53 prime_factors says:  [3, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  161 :  myFactor says:  7 , 23 prime_factors says:  [7, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  163 :  myFactor says:  1 , 163 prime_factors says:  [163]
+Prime?  False myFactor time:  0:00:00.015592 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:00.015592
+Finding factors of  165 :  myFactor says:  11 , 15 prime_factors says:  [3, 5, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  167 :  myFactor says:  1 , 167 prime_factors says:  [167]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  169 :  myFactor says:  13 , 13 prime_factors says:  [13, 13]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  171 :  myFactor says:  9 , 19 prime_factors says:  [3, 3, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  173 :  myFactor says:  1 , 173 prime_factors says:  [173]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  175 :  myFactor says:  7 , 25 prime_factors says:  [5, 5, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  177 :  myFactor says:  3 , 59 prime_factors says:  [3, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  179 :  myFactor says:  1 , 179 prime_factors says:  [179]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  181 :  myFactor says:  1 , 181 prime_factors says:  [181]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  183 :  myFactor says:  3 , 61 prime_factors says:  [3, 61.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  185 :  myFactor says:  5 , 37 prime_factors says:  [5, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  187 :  myFactor says:  11 , 17 prime_factors says:  [11, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  189 :  myFactor says:  9 , 21 prime_factors says:  [3, 3, 3, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  191 :  myFactor says:  1 , 191 prime_factors says:  [191]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  193 :  myFactor says:  1 , 193 prime_factors says:  [193]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  195 :  myFactor says:  13 , 15 prime_factors says:  [3, 5, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  197 :  myFactor says:  1 , 197 prime_factors says:  [197]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  199 :  myFactor says:  1 , 199 prime_factors says:  [199]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  201 :  myFactor says:  3 , 67 prime_factors says:  [3, 67.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  203 :  myFactor says:  7 , 29 prime_factors says:  [7, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  205 :  myFactor says:  5 , 41 prime_factors says:  [5, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  207 :  myFactor says:  9 , 23 prime_factors says:  [3, 3, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  209 :  myFactor says:  11 , 19 prime_factors says:  [11, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  211 :  myFactor says:  1 , 211 prime_factors says:  [211]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  213 :  myFactor says:  3 , 71 prime_factors says:  [3, 71.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  215 :  myFactor says:  5 , 43 prime_factors says:  [5, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  217 :  myFactor says:  7 , 31 prime_factors says:  [7, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  219 :  myFactor says:  3 , 73 prime_factors says:  [3, 73.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  221 :  myFactor says:  13 , 17 prime_factors says:  [13, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  223 :  myFactor says:  1 , 223 prime_factors says:  [223]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  225 :  myFactor says:  15 , 15 prime_factors says:  [3, 3, 5, 5]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  227 :  myFactor says:  1 , 227 prime_factors says:  [227]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  229 :  myFactor says:  1 , 229 prime_factors says:  [229]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  231 :  myFactor says:  11 , 21 prime_factors says:  [3, 7, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  233 :  myFactor says:  1 , 233 prime_factors says:  [233]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  235 :  myFactor says:  5 , 47 prime_factors says:  [5, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  237 :  myFactor says:  3 , 79 prime_factors says:  [3, 79.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  239 :  myFactor says:  1 , 239 prime_factors says:  [239]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  241 :  myFactor says:  1 , 241 prime_factors says:  [241]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  243 :  myFactor says:  9 , 27 prime_factors says:  [3, 3, 3, 3, 3]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  245 :  myFactor says:  7 , 35 prime_factors says:  [5, 7, 7]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  247 :  myFactor says:  13 , 19 prime_factors says:  [13, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  249 :  myFactor says:  3 , 83 prime_factors says:  [3, 83.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  251 :  myFactor says:  1 , 251 prime_factors says:  [251]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  253 :  myFactor says:  11 , 23 prime_factors says:  [11, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  255 :  myFactor says:  15 , 17 prime_factors says:  [3, 5, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  257 :  myFactor says:  1 , 257 prime_factors says:  [257]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  259 :  myFactor says:  7 , 37 prime_factors says:  [7, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  261 :  myFactor says:  9 , 29 prime_factors says:  [3, 3, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  263 :  myFactor says:  1 , 263 prime_factors says:  [263]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  265 :  myFactor says:  5 , 53 prime_factors says:  [5, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  267 :  myFactor says:  3 , 89 prime_factors says:  [3, 89.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  269 :  myFactor says:  1 , 269 prime_factors says:  [269]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  271 :  myFactor says:  1 , 271 prime_factors says:  [271]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  273 :  myFactor says:  13 , 21 prime_factors says:  [3, 7, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  275 :  myFactor says:  11 , 25 prime_factors says:  [5, 5, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  277 :  myFactor says:  1 , 277 prime_factors says:  [277]
+Prime?  False myFactor time:  0:00:00.015626 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:00.015626
+Finding factors of  279 :  myFactor says:  9 , 31 prime_factors says:  [3, 3, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  281 :  myFactor says:  1 , 281 prime_factors says:  [281]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  283 :  myFactor says:  1 , 283 prime_factors says:  [283]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  285 :  myFactor says:  15 , 19 prime_factors says:  [3, 5, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  287 :  myFactor says:  7 , 41 prime_factors says:  [7, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  289 :  myFactor says:  17 , 17 prime_factors says:  [17, 17]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  291 :  myFactor says:  3 , 97 prime_factors says:  [3, 97.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  293 :  myFactor says:  1 , 293 prime_factors says:  [293]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  295 :  myFactor says:  5 , 59 prime_factors says:  [5, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  297 :  myFactor says:  11 , 27 prime_factors says:  [3, 3, 3, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  299 :  myFactor says:  13 , 23 prime_factors says:  [13, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  301 :  myFactor says:  7 , 43 prime_factors says:  [7, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  303 :  myFactor says:  3 , 101 prime_factors says:  [3, 101.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  305 :  myFactor says:  5 , 61 prime_factors says:  [5, 61.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  307 :  myFactor says:  1 , 307 prime_factors says:  [307]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  309 :  myFactor says:  3 , 103 prime_factors says:  [3, 103.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  311 :  myFactor says:  1 , 311 prime_factors says:  [311]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  313 :  myFactor says:  1 , 313 prime_factors says:  [313]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  315 :  myFactor says:  15 , 21 prime_factors says:  [3, 3, 5, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  317 :  myFactor says:  1 , 317 prime_factors says:  [317]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  319 :  myFactor says:  11 , 29 prime_factors says:  [11, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  321 :  myFactor says:  3 , 107 prime_factors says:  [3, 107.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  323 :  myFactor says:  17 , 19 prime_factors says:  [17, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  325 :  myFactor says:  13 , 25 prime_factors says:  [5, 5, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  327 :  myFactor says:  3 , 109 prime_factors says:  [3, 109.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  329 :  myFactor says:  7 , 47 prime_factors says:  [7, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  331 :  myFactor says:  1 , 331 prime_factors says:  [331]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  333 :  myFactor says:  9 , 37 prime_factors says:  [3, 3, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  335 :  myFactor says:  5 , 67 prime_factors says:  [5, 67.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  337 :  myFactor says:  1 , 337 prime_factors says:  [337]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  339 :  myFactor says:  3 , 113 prime_factors says:  [3, 113.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  341 :  myFactor says:  11 , 31 prime_factors says:  [11, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  343 :  myFactor says:  7 , 49 prime_factors says:  [7, 7, 7]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  345 :  myFactor says:  15 , 23 prime_factors says:  [3, 5, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  347 :  myFactor says:  1 , 347 prime_factors says:  [347]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  349 :  myFactor says:  1 , 349 prime_factors says:  [349]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  351 :  myFactor says:  13 , 27 prime_factors says:  [3, 3, 3, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  353 :  myFactor says:  1 , 353 prime_factors says:  [353]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  355 :  myFactor says:  5 , 71 prime_factors says:  [5, 71.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  357 :  myFactor says:  17 , 21 prime_factors says:  [3, 7, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  359 :  myFactor says:  1 , 359 prime_factors says:  [359]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  361 :  myFactor says:  19 , 19 prime_factors says:  [19, 19]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  363 :  myFactor says:  11 , 33 prime_factors says:  [3, 11, 11]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  365 :  myFactor says:  5 , 73 prime_factors says:  [5, 73.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  367 :  myFactor says:  1 , 367 prime_factors says:  [367]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  369 :  myFactor says:  9 , 41 prime_factors says:  [3, 3, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  371 :  myFactor says:  7 , 53 prime_factors says:  [7, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  373 :  myFactor says:  1 , 373 prime_factors says:  [373]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  375 :  myFactor says:  15 , 25 prime_factors says:  [3, 5, 5, 5]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  377 :  myFactor says:  13 , 29 prime_factors says:  [13, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  379 :  myFactor says:  1 , 379 prime_factors says:  [379]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  381 :  myFactor says:  3 , 127 prime_factors says:  [3, 127.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  383 :  myFactor says:  1 , 383 prime_factors says:  [383]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  385 :  myFactor says:  11 , 35 prime_factors says:  [5, 7, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  387 :  myFactor says:  9 , 43 prime_factors says:  [3, 3, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  389 :  myFactor says:  1 , 389 prime_factors says:  [389]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  391 :  myFactor says:  17 , 23 prime_factors says:  [17, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  393 :  myFactor says:  3 , 131 prime_factors says:  [3, 131.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  395 :  myFactor says:  5 , 79 prime_factors says:  [5, 79.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  397 :  myFactor says:  1 , 397 prime_factors says:  [397]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  399 :  myFactor says:  19 , 21 prime_factors says:  [3, 7, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  401 :  myFactor says:  1 , 401 prime_factors says:  [401]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  403 :  myFactor says:  13 , 31 prime_factors says:  [13, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  405 :  myFactor says:  15 , 27 prime_factors says:  [3, 3, 3, 3, 5.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  407 :  myFactor says:  11 , 37 prime_factors says:  [11, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  409 :  myFactor says:  1 , 409 prime_factors says:  [409]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  411 :  myFactor says:  3 , 137 prime_factors says:  [3, 137.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  413 :  myFactor says:  7 , 59 prime_factors says:  [7, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  415 :  myFactor says:  5 , 83 prime_factors says:  [5, 83.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  417 :  myFactor says:  3 , 139 prime_factors says:  [3, 139.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  419 :  myFactor says:  1 , 419 prime_factors says:  [419]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  421 :  myFactor says:  1 , 421 prime_factors says:  [421]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  423 :  myFactor says:  9 , 47 prime_factors says:  [3, 3, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  425 :  myFactor says:  17 , 25 prime_factors says:  [5, 5, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  427 :  myFactor says:  7 , 61 prime_factors says:  [7, 61.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  429 :  myFactor says:  13 , 33 prime_factors says:  [3, 11, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  431 :  myFactor says:  1 , 431 prime_factors says:  [431]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  433 :  myFactor says:  1 , 433 prime_factors says:  [433]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  435 :  myFactor says:  15 , 29 prime_factors says:  [3, 5, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  437 :  myFactor says:  19 , 23 prime_factors says:  [19, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  439 :  myFactor says:  1 , 439 prime_factors says:  [439]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  441 :  myFactor says:  21 , 21 prime_factors says:  [3, 3, 7, 7]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  443 :  myFactor says:  1 , 443 prime_factors says:  [443]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  445 :  myFactor says:  5 , 89 prime_factors says:  [5, 89.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  447 :  myFactor says:  3 , 149 prime_factors says:  [3, 149.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  449 :  myFactor says:  1 , 449 prime_factors says:  [449]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  451 :  myFactor says:  11 , 41 prime_factors says:  [11, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  453 :  myFactor says:  3 , 151 prime_factors says:  [3, 151.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  455 :  myFactor says:  13 , 35 prime_factors says:  [5, 7, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  457 :  myFactor says:  1 , 457 prime_factors says:  [457]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  459 :  myFactor says:  17 , 27 prime_factors says:  [3, 3, 3, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  461 :  myFactor says:  1 , 461 prime_factors says:  [461]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  463 :  myFactor says:  1 , 463 prime_factors says:  [463]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  465 :  myFactor says:  15 , 31 prime_factors says:  [3, 5, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  467 :  myFactor says:  1 , 467 prime_factors says:  [467]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  469 :  myFactor says:  7 , 67 prime_factors says:  [7, 67.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  471 :  myFactor says:  3 , 157 prime_factors says:  [3, 157.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  473 :  myFactor says:  11 , 43 prime_factors says:  [11, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  475 :  myFactor says:  19 , 25 prime_factors says:  [5, 5, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  477 :  myFactor says:  9 , 53 prime_factors says:  [3, 3, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  479 :  myFactor says:  1 , 479 prime_factors says:  [479]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  481 :  myFactor says:  13 , 37 prime_factors says:  [13, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  483 :  myFactor says:  21 , 23 prime_factors says:  [3, 7, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  485 :  myFactor says:  5 , 97 prime_factors says:  [5, 97.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  487 :  myFactor says:  1 , 487 prime_factors says:  [487]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  489 :  myFactor says:  3 , 163 prime_factors says:  [3, 163.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  491 :  myFactor says:  1 , 491 prime_factors says:  [491]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  493 :  myFactor says:  17 , 29 prime_factors says:  [17, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  495 :  myFactor says:  15 , 33 prime_factors says:  [3, 3, 5, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  497 :  myFactor says:  7 , 71 prime_factors says:  [7, 71.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  499 :  myFactor says:  1 , 499 prime_factors says:  [499]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  501 :  myFactor says:  3 , 167 prime_factors says:  [3, 167.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  503 :  myFactor says:  1 , 503 prime_factors says:  [503]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  505 :  myFactor says:  5 , 101 prime_factors says:  [5, 101.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  507 :  myFactor says:  13 , 39 prime_factors says:  [3, 13, 13]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  509 :  myFactor says:  1 , 509 prime_factors says:  [509]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  511 :  myFactor says:  7 , 73 prime_factors says:  [7, 73.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  513 :  myFactor says:  19 , 27 prime_factors says:  [3, 3, 3, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  515 :  myFactor says:  5 , 103 prime_factors says:  [5, 103.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  517 :  myFactor says:  11 , 47 prime_factors says:  [11, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  519 :  myFactor says:  3 , 173 prime_factors says:  [3, 173.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  521 :  myFactor says:  1 , 521 prime_factors says:  [521]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  523 :  myFactor says:  1 , 523 prime_factors says:  [523]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  525 :  myFactor says:  21 , 25 prime_factors says:  [3, 5, 5, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  527 :  myFactor says:  17 , 31 prime_factors says:  [17, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  529 :  myFactor says:  23 , 23 prime_factors says:  [23, 23]
+Prime?  False myFactor time:  0:00:00.015589 prime_factor time:  0:00:00 Winner =  THEM
+Time Difference =  0:00:00.015589
+Finding factors of  531 :  myFactor says:  9 , 59 prime_factors says:  [3, 3, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  533 :  myFactor says:  13 , 41 prime_factors says:  [13, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  535 :  myFactor says:  5 , 107 prime_factors says:  [5, 107.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  537 :  myFactor says:  3 , 179 prime_factors says:  [3, 179.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  539 :  myFactor says:  11 , 49 prime_factors says:  [7, 7, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  541 :  myFactor says:  1 , 541 prime_factors says:  [541]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  543 :  myFactor says:  3 , 181 prime_factors says:  [3, 181.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  545 :  myFactor says:  5 , 109 prime_factors says:  [5, 109.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  547 :  myFactor says:  1 , 547 prime_factors says:  [547]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  549 :  myFactor says:  9 , 61 prime_factors says:  [3, 3, 61.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  551 :  myFactor says:  19 , 29 prime_factors says:  [19, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  553 :  myFactor says:  7 , 79 prime_factors says:  [7, 79.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  555 :  myFactor says:  15 , 37 prime_factors says:  [3, 5, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  557 :  myFactor says:  1 , 557 prime_factors says:  [557]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  559 :  myFactor says:  13 , 43 prime_factors says:  [13, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  561 :  myFactor says:  17 , 33 prime_factors says:  [3, 11, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  563 :  myFactor says:  1 , 563 prime_factors says:  [563]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  565 :  myFactor says:  5 , 113 prime_factors says:  [5, 113.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  567 :  myFactor says:  21 , 27 prime_factors says:  [3, 3, 3, 3, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  569 :  myFactor says:  1 , 569 prime_factors says:  [569]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  571 :  myFactor says:  1 , 571 prime_factors says:  [571]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  573 :  myFactor says:  3 , 191 prime_factors says:  [3, 191.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  575 :  myFactor says:  23 , 25 prime_factors says:  [5, 5, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  577 :  myFactor says:  1 , 577 prime_factors says:  [577]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  579 :  myFactor says:  3 , 193 prime_factors says:  [3, 193.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  581 :  myFactor says:  7 , 83 prime_factors says:  [7, 83.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  583 :  myFactor says:  11 , 53 prime_factors says:  [11, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  585 :  myFactor says:  15 , 39 prime_factors says:  [3, 3, 5, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  587 :  myFactor says:  1 , 587 prime_factors says:  [587]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  589 :  myFactor says:  19 , 31 prime_factors says:  [19, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  591 :  myFactor says:  3 , 197 prime_factors says:  [3, 197.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  593 :  myFactor says:  1 , 593 prime_factors says:  [593]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  595 :  myFactor says:  17 , 35 prime_factors says:  [5, 7, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  597 :  myFactor says:  3 , 199 prime_factors says:  [3, 199.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  599 :  myFactor says:  1 , 599 prime_factors says:  [599]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  601 :  myFactor says:  1 , 601 prime_factors says:  [601]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  603 :  myFactor says:  9 , 67 prime_factors says:  [3, 3, 67.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  605 :  myFactor says:  11 , 55 prime_factors says:  [5, 11, 11]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  607 :  myFactor says:  1 , 607 prime_factors says:  [607]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  609 :  myFactor says:  21 , 29 prime_factors says:  [3, 7, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  611 :  myFactor says:  13 , 47 prime_factors says:  [13, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  613 :  myFactor says:  1 , 613 prime_factors says:  [613]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  615 :  myFactor says:  15 , 41 prime_factors says:  [3, 5, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  617 :  myFactor says:  1 , 617 prime_factors says:  [617]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  619 :  myFactor says:  1 , 619 prime_factors says:  [619]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  621 :  myFactor says:  23 , 27 prime_factors says:  [3, 3, 3, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  623 :  myFactor says:  7 , 89 prime_factors says:  [7, 89.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  625 :  myFactor says:  25 , 25 prime_factors says:  [5, 5, 5, 5]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  627 :  myFactor says:  19 , 33 prime_factors says:  [3, 11, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  629 :  myFactor says:  17 , 37 prime_factors says:  [17, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  631 :  myFactor says:  1 , 631 prime_factors says:  [631]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  633 :  myFactor says:  3 , 211 prime_factors says:  [3, 211.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  635 :  myFactor says:  5 , 127 prime_factors says:  [5, 127.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  637 :  myFactor says:  13 , 49 prime_factors says:  [7, 7, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  639 :  myFactor says:  9 , 71 prime_factors says:  [3, 3, 71.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  641 :  myFactor says:  1 , 641 prime_factors says:  [641]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  643 :  myFactor says:  1 , 643 prime_factors says:  [643]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  645 :  myFactor says:  15 , 43 prime_factors says:  [3, 5, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  647 :  myFactor says:  1 , 647 prime_factors says:  [647]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  649 :  myFactor says:  11 , 59 prime_factors says:  [11, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  651 :  myFactor says:  21 , 31 prime_factors says:  [3, 7, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  653 :  myFactor says:  1 , 653 prime_factors says:  [653]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  655 :  myFactor says:  5 , 131 prime_factors says:  [5, 131.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  657 :  myFactor says:  9 , 73 prime_factors says:  [3, 3, 73.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  659 :  myFactor says:  1 , 659 prime_factors says:  [659]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  661 :  myFactor says:  1 , 661 prime_factors says:  [661]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  663 :  myFactor says:  17 , 39 prime_factors says:  [3, 13, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  665 :  myFactor says:  19 , 35 prime_factors says:  [5, 7, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  667 :  myFactor says:  23 , 29 prime_factors says:  [23, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  669 :  myFactor says:  3 , 223 prime_factors says:  [3, 223.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  671 :  myFactor says:  11 , 61 prime_factors says:  [11, 61.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  673 :  myFactor says:  1 , 673 prime_factors says:  [673]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  675 :  myFactor says:  25 , 27 prime_factors says:  [3, 3, 3, 5, 5]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  677 :  myFactor says:  1 , 677 prime_factors says:  [677]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  679 :  myFactor says:  7 , 97 prime_factors says:  [7, 97.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  681 :  myFactor says:  3 , 227 prime_factors says:  [3, 227.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  683 :  myFactor says:  1 , 683 prime_factors says:  [683]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  685 :  myFactor says:  5 , 137 prime_factors says:  [5, 137.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  687 :  myFactor says:  3 , 229 prime_factors says:  [3, 229.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  689 :  myFactor says:  13 , 53 prime_factors says:  [13, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  691 :  myFactor says:  1 , 691 prime_factors says:  [691]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  693 :  myFactor says:  21 , 33 prime_factors says:  [3, 3, 7, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  695 :  myFactor says:  5 , 139 prime_factors says:  [5, 139.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  697 :  myFactor says:  17 , 41 prime_factors says:  [17, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  699 :  myFactor says:  3 , 233 prime_factors says:  [3, 233.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  701 :  myFactor says:  1 , 701 prime_factors says:  [701]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  703 :  myFactor says:  19 , 37 prime_factors says:  [19, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  705 :  myFactor says:  15 , 47 prime_factors says:  [3, 5, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  707 :  myFactor says:  7 , 101 prime_factors says:  [7, 101.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  709 :  myFactor says:  1 , 709 prime_factors says:  [709]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  711 :  myFactor says:  9 , 79 prime_factors says:  [3, 3, 79.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  713 :  myFactor says:  23 , 31 prime_factors says:  [23, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  715 :  myFactor says:  13 , 55 prime_factors says:  [5, 11, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  717 :  myFactor says:  3 , 239 prime_factors says:  [3, 239.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  719 :  myFactor says:  1 , 719 prime_factors says:  [719]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  721 :  myFactor says:  7 , 103 prime_factors says:  [7, 103.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  723 :  myFactor says:  3 , 241 prime_factors says:  [3, 241.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  725 :  myFactor says:  25 , 29 prime_factors says:  [5, 5, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  727 :  myFactor says:  1 , 727 prime_factors says:  [727]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  729 :  myFactor says:  27 , 27 prime_factors says:  [3, 3, 3, 3, 3, 3]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  731 :  myFactor says:  17 , 43 prime_factors says:  [17, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  733 :  myFactor says:  1 , 733 prime_factors says:  [733]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  735 :  myFactor says:  21 , 35 prime_factors says:  [3, 5, 7, 7]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  737 :  myFactor says:  11 , 67 prime_factors says:  [11, 67.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  739 :  myFactor says:  1 , 739 prime_factors says:  [739]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  741 :  myFactor says:  19 , 39 prime_factors says:  [3, 13, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  743 :  myFactor says:  1 , 743 prime_factors says:  [743]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  745 :  myFactor says:  5 , 149 prime_factors says:  [5, 149.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  747 :  myFactor says:  9 , 83 prime_factors says:  [3, 3, 83.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  749 :  myFactor says:  7 , 107 prime_factors says:  [7, 107.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  751 :  myFactor says:  1 , 751 prime_factors says:  [751]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  753 :  myFactor says:  3 , 251 prime_factors says:  [3, 251.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  755 :  myFactor says:  5 , 151 prime_factors says:  [5, 151.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  757 :  myFactor says:  1 , 757 prime_factors says:  [757]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  759 :  myFactor says:  23 , 33 prime_factors says:  [3, 11, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  761 :  myFactor says:  1 , 761 prime_factors says:  [761]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  763 :  myFactor says:  7 , 109 prime_factors says:  [7, 109.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  765 :  myFactor says:  17 , 45 prime_factors says:  [3, 3, 5, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  767 :  myFactor says:  13 , 59 prime_factors says:  [13, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  769 :  myFactor says:  1 , 769 prime_factors says:  [769]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  771 :  myFactor says:  3 , 257 prime_factors says:  [3, 257.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  773 :  myFactor says:  1 , 773 prime_factors says:  [773]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  775 :  myFactor says:  25 , 31 prime_factors says:  [5, 5, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  777 :  myFactor says:  21 , 37 prime_factors says:  [3, 7, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  779 :  myFactor says:  19 , 41 prime_factors says:  [19, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  781 :  myFactor says:  11 , 71 prime_factors says:  [11, 71.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  783 :  myFactor says:  27 , 29 prime_factors says:  [3, 3, 3, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  785 :  myFactor says:  5 , 157 prime_factors says:  [5, 157.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  787 :  myFactor says:  1 , 787 prime_factors says:  [787]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  789 :  myFactor says:  3 , 263 prime_factors says:  [3, 263.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  791 :  myFactor says:  7 , 113 prime_factors says:  [7, 113.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  793 :  myFactor says:  13 , 61 prime_factors says:  [13, 61.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  795 :  myFactor says:  15 , 53 prime_factors says:  [3, 5, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  797 :  myFactor says:  1 , 797 prime_factors says:  [797]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  799 :  myFactor says:  17 , 47 prime_factors says:  [17, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  801 :  myFactor says:  9 , 89 prime_factors says:  [3, 3, 89.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  803 :  myFactor says:  11 , 73 prime_factors says:  [11, 73.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  805 :  myFactor says:  23 , 35 prime_factors says:  [5, 7, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  807 :  myFactor says:  3 , 269 prime_factors says:  [3, 269.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  809 :  myFactor says:  1 , 809 prime_factors says:  [809]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  811 :  myFactor says:  1 , 811 prime_factors says:  [811]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  813 :  myFactor says:  3 , 271 prime_factors says:  [3, 271.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  815 :  myFactor says:  5 , 163 prime_factors says:  [5, 163.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  817 :  myFactor says:  19 , 43 prime_factors says:  [19, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  819 :  myFactor says:  21 , 39 prime_factors says:  [3, 3, 7, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  821 :  myFactor says:  1 , 821 prime_factors says:  [821]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  823 :  myFactor says:  1 , 823 prime_factors says:  [823]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  825 :  myFactor says:  25 , 33 prime_factors says:  [3, 5, 5, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  827 :  myFactor says:  1 , 827 prime_factors says:  [827]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  829 :  myFactor says:  1 , 829 prime_factors says:  [829]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  831 :  myFactor says:  3 , 277 prime_factors says:  [3, 277.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  833 :  myFactor says:  17 , 49 prime_factors says:  [7, 7, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  835 :  myFactor says:  5 , 167 prime_factors says:  [5, 167.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  837 :  myFactor says:  27 , 31 prime_factors says:  [3, 3, 3, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  839 :  myFactor says:  1 , 839 prime_factors says:  [839]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  841 :  myFactor says:  29 , 29 prime_factors says:  [29, 29]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  843 :  myFactor says:  3 , 281 prime_factors says:  [3, 281.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  845 :  myFactor says:  13 , 65 prime_factors says:  [5, 13, 13]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  847 :  myFactor says:  11 , 77 prime_factors says:  [7, 11, 11]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  849 :  myFactor says:  3 , 283 prime_factors says:  [3, 283.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  851 :  myFactor says:  23 , 37 prime_factors says:  [23, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  853 :  myFactor says:  1 , 853 prime_factors says:  [853]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  855 :  myFactor says:  19 , 45 prime_factors says:  [3, 3, 5, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  857 :  myFactor says:  1 , 857 prime_factors says:  [857]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  859 :  myFactor says:  1 , 859 prime_factors says:  [859]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  861 :  myFactor says:  21 , 41 prime_factors says:  [3, 7, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  863 :  myFactor says:  1 , 863 prime_factors says:  [863]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  865 :  myFactor says:  5 , 173 prime_factors says:  [5, 173.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  867 :  myFactor says:  17 , 51 prime_factors says:  [3, 17, 17]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  869 :  myFactor says:  11 , 79 prime_factors says:  [11, 79.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  871 :  myFactor says:  13 , 67 prime_factors says:  [13, 67.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  873 :  myFactor says:  9 , 97 prime_factors says:  [3, 3, 97.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  875 :  myFactor says:  25 , 35 prime_factors says:  [5, 5, 5, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  877 :  myFactor says:  1 , 877 prime_factors says:  [877]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  879 :  myFactor says:  3 , 293 prime_factors says:  [3, 293.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  881 :  myFactor says:  1 , 881 prime_factors says:  [881]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  883 :  myFactor says:  1 , 883 prime_factors says:  [883]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  885 :  myFactor says:  15 , 59 prime_factors says:  [3, 5, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  887 :  myFactor says:  1 , 887 prime_factors says:  [887]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  889 :  myFactor says:  7 , 127 prime_factors says:  [7, 127.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  891 :  myFactor says:  27 , 33 prime_factors says:  [3, 3, 3, 3, 11.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  893 :  myFactor says:  19 , 47 prime_factors says:  [19, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  895 :  myFactor says:  5 , 179 prime_factors says:  [5, 179.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  897 :  myFactor says:  23 , 39 prime_factors says:  [3, 13, 23.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  899 :  myFactor says:  29 , 31 prime_factors says:  [29, 31.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  901 :  myFactor says:  17 , 53 prime_factors says:  [17, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  903 :  myFactor says:  21 , 43 prime_factors says:  [3, 7, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  905 :  myFactor says:  5 , 181 prime_factors says:  [5, 181.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  907 :  myFactor says:  1 , 907 prime_factors says:  [907]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  909 :  myFactor says:  9 , 101 prime_factors says:  [3, 3, 101.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  911 :  myFactor says:  1 , 911 prime_factors says:  [911]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  913 :  myFactor says:  11 , 83 prime_factors says:  [11, 83.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  915 :  myFactor says:  15 , 61 prime_factors says:  [3, 5, 61.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  917 :  myFactor says:  7 , 131 prime_factors says:  [7, 131.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  919 :  myFactor says:  1 , 919 prime_factors says:  [919]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  921 :  myFactor says:  3 , 307 prime_factors says:  [3, 307.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  923 :  myFactor says:  13 , 71 prime_factors says:  [13, 71.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  925 :  myFactor says:  25 , 37 prime_factors says:  [5, 5, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  927 :  myFactor says:  9 , 103 prime_factors says:  [3, 3, 103.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  929 :  myFactor says:  1 , 929 prime_factors says:  [929]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  931 :  myFactor says:  19 , 49 prime_factors says:  [7, 7, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  933 :  myFactor says:  3 , 311 prime_factors says:  [3, 311.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  935 :  myFactor says:  17 , 55 prime_factors says:  [5, 11, 17.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  937 :  myFactor says:  1 , 937 prime_factors says:  [937]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  939 :  myFactor says:  3 , 313 prime_factors says:  [3, 313.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  941 :  myFactor says:  1 , 941 prime_factors says:  [941]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  943 :  myFactor says:  23 , 41 prime_factors says:  [23, 41.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  945 :  myFactor says:  27 , 35 prime_factors says:  [3, 3, 3, 5, 7.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  947 :  myFactor says:  1 , 947 prime_factors says:  [947]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  949 :  myFactor says:  13 , 73 prime_factors says:  [13, 73.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  951 :  myFactor says:  3 , 317 prime_factors says:  [3, 317.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  953 :  myFactor says:  1 , 953 prime_factors says:  [953]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  955 :  myFactor says:  5 , 191 prime_factors says:  [5, 191.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  957 :  myFactor says:  29 , 33 prime_factors says:  [3, 11, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  959 :  myFactor says:  7 , 137 prime_factors says:  [7, 137.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  961 :  myFactor says:  31 , 31 prime_factors says:  [31, 31]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  963 :  myFactor says:  9 , 107 prime_factors says:  [3, 3, 107.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  965 :  myFactor says:  5 , 193 prime_factors says:  [5, 193.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  967 :  myFactor says:  1 , 967 prime_factors says:  [967]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  969 :  myFactor says:  19 , 51 prime_factors says:  [3, 17, 19.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  971 :  myFactor says:  1 , 971 prime_factors says:  [971]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  973 :  myFactor says:  7 , 139 prime_factors says:  [7, 139.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  975 :  myFactor says:  25 , 39 prime_factors says:  [3, 5, 5, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  977 :  myFactor says:  1 , 977 prime_factors says:  [977]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  979 :  myFactor says:  11 , 89 prime_factors says:  [11, 89.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  981 :  myFactor says:  9 , 109 prime_factors says:  [3, 3, 109.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  983 :  myFactor says:  1 , 983 prime_factors says:  [983]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  985 :  myFactor says:  5 , 197 prime_factors says:  [5, 197.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  987 :  myFactor says:  21 , 47 prime_factors says:  [3, 7, 47.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  989 :  myFactor says:  23 , 43 prime_factors says:  [23, 43.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  991 :  myFactor says:  1 , 991 prime_factors says:  [991]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  993 :  myFactor says:  3 , 331 prime_factors says:  [3, 331.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  995 :  myFactor says:  5 , 199 prime_factors says:  [5, 199.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  997 :  myFactor says:  1 , 997 prime_factors says:  [997]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  999 :  myFactor says:  27 , 37 prime_factors says:  [3, 3, 3, 37.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1001 :  myFactor says:  13 , 77 prime_factors says:  [7, 11, 13.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1003 :  myFactor says:  17 , 59 prime_factors says:  [17, 59.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1005 :  myFactor says:  15 , 67 prime_factors says:  [3, 5, 67.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1007 :  myFactor says:  19 , 53 prime_factors says:  [19, 53.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1009 :  myFactor says:  1 , 1009 prime_factors says:  [1009]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1011 :  myFactor says:  3 , 337 prime_factors says:  [3, 337.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1013 :  myFactor says:  1 , 1013 prime_factors says:  [1013]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1015 :  myFactor says:  29 , 35 prime_factors says:  [5, 7, 29.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1017 :  myFactor says:  9 , 113 prime_factors says:  [3, 3, 113.0]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
+Finding factors of  1019 :  myFactor says:  1 , 1019 prime_factors says:  [1019]
+Prime?  False myFactor time:  0:00:00 prime_factor time:  0:00:00 Winner =  TIE
+Time Difference =  0:00:00
